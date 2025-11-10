@@ -5,7 +5,7 @@ import pandas as pd
 
 # --- 1. 페이지 기본 설정 ---
 st.set_page_config(
-    page_title="Streamlit 석하의 첫번재 페이지",
+    page_title="Streamlit 석하의 첫번째째 페이지",
     page_icon="🔮",
     layout="wide"
 )
@@ -196,7 +196,7 @@ with col1:
 
 with col2:
     st.write("유튜브 동영상 예제")
-    st.video("https://www.youtube.com/watch?v=B2iAodr0fOo")
+    st.video("https://www.youtube.com/watch?v=qrqHlgqNTHo")
 
 # --- 10. 마무리 ---
 st.markdown("---")
